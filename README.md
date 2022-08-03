@@ -1,5 +1,6 @@
 ﻿# Examples Machine Learning
  
+ ## Algorithms:
  - Linear Regression;
  - Logistic Regression;
  - Decision Tree;
@@ -9,3 +10,11 @@
  - Random Forest;
  - SVM;
  - Hyperparameter Optimization.
+ 
+ ## Datasets:
+ - Diabetes;
+ - Wine Quality;
+ - Iris;
+ - Boston;
+ - Titanic;
+ 
