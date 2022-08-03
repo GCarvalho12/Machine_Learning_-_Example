@@ -16,5 +16,5 @@
  - Wine Quality;
  - Iris;
  - Boston;
- - Titanic;
+ - Titanic.
  
